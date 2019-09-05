@@ -10,9 +10,20 @@ X operationsで使用されるMIFファイルを作成するエディタです�
 - EUC-KR (韓国語)
 - UTF-8
 
+## 必要環境
+
+Windows Vista以上のOS (64ビット)
+
+自分の開発環境はWindows 10 (64ビット)です。他の環境でテストしていないので、実際のところはよくわかりません。
+
 ## ライセンス
 
 このMIFエディタはMITライセンスの下に公開されています。
+
+## 依存
+
+- [International Components for Unicode (ICU)](http://site.icu-project.org/)
+  文字コード関連の処理のために使用しています。
 
 ## 作者からのコメント
 
