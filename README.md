@@ -35,6 +35,6 @@ Win32APIを使用したGUIアプリケーションをより簡単に作成でき
 
 - [X operations WEB](https://hp.vector.co.jp/authors/VA022962/xops/)
   X operationsの公式サイト
-- [Twitter](https://twitter.com/Daxie_tksm6)
-  作者のTwitterアカウント
+  
+  
 
